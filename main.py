@@ -69,9 +69,9 @@ if __name__ == '__main__':
 
 
 
- 
+    
     # Jenkins - testing
-    print("Hello, Jenkins!")
+    print("Jenkins!")
 
 
 

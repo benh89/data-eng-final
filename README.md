@@ -1,3 +1,6 @@
+
+My Data-Studio Report URL: https://datastudio.google.com/u/0/reporting/ecc9a3bf-914c-4fdd-aa2b-ec36bb97dcb5/page/aK5iC 
+
 # Project Overview
 
  1. Use apache beam to create a data pipeline to aggregate data from three big query input tables.
@@ -99,3 +102,4 @@
    - Install required python packages inside your new venv from your ```requirements.txt``` file
    - Set your ```GOOGLE_APPLICATION_CREDENTIALS``` environment variable to ```/var/dataflow/york-cdf-start-b0964900c176.json```
    - Start your pipeline
+

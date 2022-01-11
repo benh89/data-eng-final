@@ -67,7 +67,8 @@ if __name__ == '__main__':
             create_disposition=beam.io.BigQueryDisposition.CREATE_IF_NEEDED
         )
 
-
+    # print
+    print("Hello World")
 
 
 
